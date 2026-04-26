@@ -11,7 +11,7 @@ Hardware a Síť
 •	Síťový adaptér: Nastaven na VMnet8 (NAT) s vlastní definovanou podsítí.
 •	Subnet: 172.16.0.0 s maskou 255.255.0.0 (/16).
  
- 
+ Snímek obrazovky 2026-04-06 135536-2
 2. Správa úložného prostoru (LVM)
 Pro efektivní správu dat byl vytvořen logický celek (LVM), který spojuje oba 10GB SATA disky do jednoho svazku o velikosti 20 GB.
 Realizace:
